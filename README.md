@@ -8,3 +8,6 @@ make the reader of  information feels boring, it gives just a general informatio
 ### Generative Artificial Intellegence model
 1. The model was fine-tuned using AI Studio that use our created dataset
 2. The web chatbot was created by the bolt.new
+
+## Training the model 
+https://github.com/mhmdalmndoop2580/chatbootmohammed/blob/main/project%20photo.png
