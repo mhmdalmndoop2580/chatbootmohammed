@@ -10,6 +10,6 @@ make the reader of  information feels boring, it gives just a general informatio
 2. The web chatbot was created by the bolt.new
 
 ## Training the model 
-https://github.com/mhmdalmndoop2580/chatbootmohammed/blob/458038012568a4f38419b23b480c18a6ad7b14e5/project%20photo.png
+![image alt](https://github.com/mhmdalmndoop2580/chatbootmohammed/blob/458038012568a4f38419b23b480c18a6ad7b14e5/project%20photo.png)
 ## The chatboot 
-https://github.com/mhmdalmndoop2580/chatbootmohammed/blob/458038012568a4f38419b23b480c18a6ad7b14e5/project%20photo.png
+![image alt](https://github.com/mhmdalmndoop2580/chatbootmohammed/blob/458038012568a4f38419b23b480c18a6ad7b14e5/project%20photo.png)
